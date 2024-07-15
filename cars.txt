@@ -1,0 +1,30 @@
+Mazda MX-5, 230, 1998, Олег
+BMW M3, 260, 2004, Игорь
+Audi R8, 320, 2015, Алексей
+Toyota Supra, 280, 1999, Дмитрий
+Honda Civic, 210, 2008, Николай
+Porsche 911, 330, 2011, Сергей
+Ford Mustang, 290, 2016, Антон
+Chevrolet Camaro, 220, 2019, Валентин
+Nissan GTR, 315, 2020, Владислав
+Mercedes-Benz SLS, 300, 2013, Роман
+Subaru Impreza, 240, 2007, Михаил
+Lamborghini Aventador, 350, 2018, Андрей
+Ferrari 488, 340, 2017, Евгений
+Aston Martin DB9, 295, 2014, Борис
+Volkswagen Golf, 200, 2012, Петр
+Alfa Romeo 4C, 250, 2019, Виталий
+Volvo S60, 220, 2010, Сергей
+Mitsubishi Lancer, 230, 2006, Владислав
+Lexus IS, 245, 2015, Иван
+Peugeot 308, 205, 2020, Фёдор
+Renault Megane, 215, 2018, Виктор
+Jaguar F-Type, 300, 2021, Артем
+Mazda RX-9, 280, 2022, Дмитрий
+Tesla Model S, 250, 2021, Максим
+Bugatti Chiron, 420, 2020, Александр
+McLaren 720S, 350, 2021, Кирилл
+Pagani Huayra, 370, 2018, Денис
+Koenigsegg Agera, 440, 2019, Вячеслав
+Maserati GranTurismo, 295, 2016, Станислав
+Dodge Viper, 310, 2015, Олег.
